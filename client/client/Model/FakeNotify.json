@@ -1,0 +1,46 @@
+{
+    "list": [
+             {
+             "title": "【新款】薄型 PS4 CUH-2017型 500G 主機 2000系列 電視遊樂器",
+             "lowPrice": 4444,
+             "highPrice": 44444,
+             "shops": [
+                       "Yahoo奇摩購物中心",
+                       "蝦皮商城",
+                       "博客來",
+                       "PChome24h購物",
+                       "TAAZE讀冊生活"
+                       ]
+             },
+             {
+             "title": "PS3《毀滅戰士 3 BFG版 Doom 3 BFG Edition 》英文美版",
+             "lowPrice": 3333,
+             "highPrice": 33333,
+             "shops": [
+                       "Yahoo奇摩購物中心",
+                       "蝦皮商城",
+                       "博客來",
+                       "PChome24h購物"
+                       ]
+             },
+             {
+             "title": "PS2 遊戲王 膠囊怪獸競技場 BEST版",
+             "lowPrice": 2222,
+             "highPrice": 22222,
+             "shops": [
+                       "Yahoo奇摩購物中心",
+                       "蝦皮商城",
+                       "博客來"
+                       ]
+             },
+             {
+             "title": "PROENZA SCHOULER PS1/C1 銀釦山羊皮革兩用包(中/淺粉)",
+             "lowPrice": 1111,
+             "highPrice": 11111,
+             "shops": [
+                       "Yahoo奇摩購物中心",
+                       "蝦皮商城"
+                       ]
+             }
+             ]
+}

@@ -1,0 +1,4 @@
+*.xcworkspacedata
+server/myvenv/
+client/Pods/
+server/myserver/__pycache__

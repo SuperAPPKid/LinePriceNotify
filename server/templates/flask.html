@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Flask Example</title>
+</head>
+<body>
+Say Hello to : {{thing}} <br>
+Code is <span id="code">{{code}}</span> <br>
+State is <span id="state">{{state}}</span><br>
+Token is <span id="token">{{token}}</span> <br>
+<script>
+    var code = document.getElementById("code").textContent
+    var state = document.getElementById("state").textContent
+    var token = document.getElementById("token").textContent
+    var message = {
+        "code":code,
+        "state":state,
+        "token":token
+    }
+    console.log("token: "+"{{token}}")
+    window.webkit.messageHandlers.success.postMessage(message);
+</script>
+</body>
+</html>
